@@ -1,0 +1,2 @@
+# kartacaSSY
+Stajyer Sistem Yöneticisi
