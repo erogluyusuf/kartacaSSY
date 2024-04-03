@@ -14,6 +14,7 @@ $ cp kartaca-pillar.sls /srv/pillar/kartaca-pillar.sls
 $ salt "*" test.ping
 ubuntu22:
     True
+
 centos9:
     True
 
