@@ -1,7 +1,7 @@
 # kartacaSSY
 Stajyer Sistem Yöneticisi
 
-$ git clone https://gihtub.com/<repo>
+$ git clone https://gihtub.com/erogluyusuf/kartacaSSY
 
 $ cd <repo>
 
