@@ -12,6 +12,7 @@ $ cp kartaca-wordpress.sls /srv/salt/kartaca-wordpress.sls
 $ cp kartaca-pillar.sls /srv/pillar/kartaca-pillar.sls
 
 $ salt "*" test.ping
+
 ubuntu22:
     True
 
